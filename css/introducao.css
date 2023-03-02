@@ -4,7 +4,7 @@
   place-items: center start;
   column-gap: 20px;
 }
-.container {
+.introducao-container {
   max-width: 1200px;
   margin: 0 auto;
   margin-top: 120px;
@@ -51,10 +51,11 @@
   }
 }
 @media(max-width: 600px) {
-  .container {
+  .introducao-container {
     grid-template-columns: 1fr;
     row-gap: 40px;
     place-items: center;
+    margin-top: 40px;
   }
   .perfil {
     display: none;
@@ -65,7 +66,7 @@
   }
   .introducao-texto {
     text-align: center;
-    font-size: 1rem;
+    font-size: 1.25rem;
   }
 }
 @media(max-width: 400px) {
