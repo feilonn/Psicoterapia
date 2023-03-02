@@ -5,15 +5,16 @@
 .servicos-container {
   max-width: 1200px;
   margin: 0 auto;
-  margin-top: 120px;
+  margin-top: 90px;
   padding: 40px 20px;
 }
 .servicos-titulo {
   font-size: 3rem;
-  line-height: 1.20;
+  line-height: 1.30;
   color: #F0F0F0;
   max-width: 18ch;
   font-weight: 400;
+  margin-top: 90px;
 }
 .servicos-titulo span {
   color: #4ABD7F;
@@ -60,6 +61,7 @@
     font-size: 2.5rem;
     text-align: center;
     max-width: initial;
+    margin-top: 40px;
   }
 }
 @media(max-width: 600px) {
@@ -76,5 +78,6 @@
 @media(max-width: 400px) {
   .servicos-titulo {
     font-size: 1.5rem;
+    margin-top: 20px;
   }
 }
