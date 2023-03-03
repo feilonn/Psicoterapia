@@ -1,7 +1,7 @@
 # Psik
 Página web com temática sobre Psicoterapia. Prototipação do projeto feita no Figma e construção com HTML e CSS. Projeto totalmente responsivo
 <br>
-Todos os dados exibidos são meramente ilustrativos.
+<strong>Todos os dados exibidos são meramente ilustrativos.</strong>
 
 # Prototipação - FIGMA
 ![image](https://user-images.githubusercontent.com/60004704/222584661-4e50123c-fb48-4212-8db3-82f29ff8a007.png)
